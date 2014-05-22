@@ -1,0 +1,9 @@
+.project
+bin/
+*pyc
+*.swp
+pkg/
+log/
+src/test/
+TAGS
+*~
